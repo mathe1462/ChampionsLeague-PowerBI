@@ -78,17 +78,17 @@ Fonte de referência: [Kaggle - UEFA Champions League Historical Dataset 1955-20
 
 O desenvolvimento e a evolução das entregas podem ser acompanhados pelo Board do projeto no GitHub.
 
-_(adicionar link do Board aqui)_
+[Champions League BI — Roteiro](https://github.com/users/mathe1462/projects/2)
 
 ## Evolução do Projeto
 
-- [ ] C1 — Análise de Desempenho dos Clubes
+- [x] C1 — Análise de Desempenho dos Clubes
 - [ ] C2 — Próxima análise
 - [ ] C3 — Próxima análise
 - [ ] Prova — Análise final
 
 ## 👨‍💻 Autor
 
-_(seu nome aqui)_
+Matheus
 
 Projeto desenvolvido para fins acadêmicos.
